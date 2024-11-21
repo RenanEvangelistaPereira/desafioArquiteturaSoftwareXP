@@ -38,3 +38,5 @@ Service.
 o (Opcional) Entrega do Código:
 ▪ Se optar por entregar o código, faça o upload em um repositório GitHub
 ou GitLab e compartilhe o link.
+
+![image](https://github.com/user-attachments/assets/7ba675e4-819f-4b50-820a-5b64eac7f88f)
