@@ -1,24 +1,11 @@
-src/DesafioXPArquiteturaSoftwareApiRestful/.vs/
-src/DesafioXPArquiteturaSoftwareApiRestful/.vs/*
-src/DesafioXPArquiteturaSoftwareApiRestful/.vs/DesafioXPArquiteturaSoftwareApiRestful/**/*
-src/DesafioXPArquiteturaSoftwareApiRestful/.vs/DesafioXPArquiteturaSoftwareApiRestful/CopilotIndices/17.12.31.40377/SemanticSymbols.db-wal
-src/DesafioXPArquiteturaSoftwareApiRestful/.vs/DesafioXPArquiteturaSoftwareApiRestful/v17/.suo
-src/DesafioXPArquiteturaSoftwareApiRestful/.vs/DesafioXPArquiteturaSoftwareApiRestful/v17/DocumentLayout.backup.json
+webApiVendasOnline/.vs/
+webApiVendasOnline/.vs/*
 
+webApiVendasOnline/webApiVendasOnline/bin/
+webApiVendasOnline/webApiVendasOnline/bin/*
 
-src/DesafioXPArquiteturaSoftwareApiRestful/ApiRestful/bin/
-src/DesafioXPArquiteturaSoftwareApiRestful/ApiRestful/bin/*
-
-src/DesafioXPArquiteturaSoftwareApiRestful/ApiRestful/obj/
-src/DesafioXPArquiteturaSoftwareApiRestful/ApiRestful/obj/*
-
-src/DesafioXPArquiteturaSoftwareApiRestful/ApiRestful/obj/
-src/DesafioXPArquiteturaSoftwareApiRestful/ApiRestful/obj/*
-
-src/DesafioXPArquiteturaSoftwareApiRestful/.vs/DesafioXPArquiteturaSoftwareApiRestful/v17/DocumentLayout.json
-src/DesafioXPArquiteturaSoftwareApiRestful/ApiRestful/obj/Debug/net8.0/ApiRestful.AssemblyInfo.cs
-src/DesafioXPArquiteturaSoftwareApiRestful/ApiRestful/obj/Debug/net8.0/ApiRestful.AssemblyInfoInputs.cache
-
+webApiVendasOnline/webApiVendasOnline/obj/
+webApiVendasOnline/webApiVendasOnline/obj/*
 
 # User-specific files
 *.rsuser
