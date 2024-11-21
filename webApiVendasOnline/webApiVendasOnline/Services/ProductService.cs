@@ -41,6 +41,16 @@
             await _productRepository.DeleteProductAsync(id);
         }
 
+        public async Task<long> GetProductCountAsync() 
+        {
+            return await _productRepository.GetProductCountAsync();
+        }
+
+        public async Task<Product> GetProductByNameAsync(string name) 
+        {
+            return await _productRepository.GetProductByNameAsync(name);
+        }
+
         private void ValidateProduct(Product product)
         {
             if (string.IsNullOrWhiteSpace(product.Name))

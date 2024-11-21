@@ -72,5 +72,23 @@ namespace webApiVendasOnline.Controllers
             await _productService.DeleteProductAsync(id);
             return NoContent();
         }
+
+        [HttpGet("Contagem")]
+        public async Task<ActionResult<long>> GetProductCount()
+        {
+            var count = await _productService.GetProductCountAsync();
+            return Ok(count);
+        }
+
+        [HttpGet("ByName/{name}")] // New endpoint
+        public async Task<ActionResult<Product>> GetProductByName(string name)
+        {
+            var product = await _productService.GetProductByNameAsync(name);
+            if (product == null)
+            {
+                return NotFound();
+            }
+            return Ok(product);
+        }
     }
 }
